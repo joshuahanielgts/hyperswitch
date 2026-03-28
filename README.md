@@ -2,7 +2,6 @@
   <img src="./docs/imgs/hyperswitch-logo-dark.svg#gh-dark-mode-only" alt="Hyperswitch-Logo" width="40%" />
   <img src="./docs/imgs/hyperswitch-logo-light.svg#gh-light-mode-only" alt="Hyperswitch-Logo" width="40%" />
 </p>
-
 <h1 align="center">Composable Open-Source Payments Infrastructure</h1>
 
 <p align="center">
